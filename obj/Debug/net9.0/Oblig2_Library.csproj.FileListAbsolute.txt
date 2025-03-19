@@ -1,0 +1,15 @@
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\bin\Debug\net9.0\Oblig2_Library.exe
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\bin\Debug\net9.0\Oblig2_Library.deps.json
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\bin\Debug\net9.0\Oblig2_Library.runtimeconfig.json
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\bin\Debug\net9.0\Oblig2_Library.dll
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\bin\Debug\net9.0\Oblig2_Library.pdb
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\obj\Debug\net9.0\Oblig2_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\obj\Debug\net9.0\Oblig2_Library.AssemblyInfoInputs.cache
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\obj\Debug\net9.0\Oblig2_Library.AssemblyInfo.cs
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\obj\Debug\net9.0\Oblig2_Library.csproj.CoreCompileInputs.cache
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\obj\Debug\net9.0\Oblig2_Library.sourcelink.json
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\obj\Debug\net9.0\Oblig2_Library.dll
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\obj\Debug\net9.0\refint\Oblig2_Library.dll
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\obj\Debug\net9.0\Oblig2_Library.pdb
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\obj\Debug\net9.0\Oblig2_Library.genruntimeconfig.cache
+C:\Users\Kubonk\RiderProjects\Oblig2_Library\Oblig2_Library\obj\Debug\net9.0\ref\Oblig2_Library.dll

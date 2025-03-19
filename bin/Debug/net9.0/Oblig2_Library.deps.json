@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Oblig2_Library/1.0.0": {
+        "runtime": {
+          "Oblig2_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oblig2_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
