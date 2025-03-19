@@ -16,7 +16,7 @@ static class LibraryOppgave
             new Roman("Leo Tolstoy", "The Eternal Struggle", 1869, 998877665, "Historical Fiction")
         };
         
-        Library Biblio = new Library();
+        Library Biblio = new Library(booker);
         while (true)
         {
             Biblio.ShowMainMenu();
