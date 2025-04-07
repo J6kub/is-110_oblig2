@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oblig2_Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49c93d7dc45eef7b67d292b943a8ab0f157bd793")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb4d46808ea4a389f9df50689a9e918f35de3692")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oblig2_Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oblig2_Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
